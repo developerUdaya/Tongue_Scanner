@@ -17,7 +17,7 @@ class GeminiService {
       throw Exception("API Key not configured.");
       // In a real app, you might want to disable functionality gracefully
     }
-
+//sdkhksjhjkda
     _model = GenerativeModel(
       // Use gemini-pro-vision or the latest model supporting image input
       model: 'gemini-1.5-flash',
